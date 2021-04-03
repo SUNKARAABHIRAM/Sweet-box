@@ -1,0 +1,6 @@
+
+#Comments
+*.txt
+build/
+!call.txt
+/reject.js
